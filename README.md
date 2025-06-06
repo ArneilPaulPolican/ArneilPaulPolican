@@ -1,9 +1,9 @@
 # Hi there, I'm Arneil Paul Polican! 👋
 
 ## :rocket: About Me
-I'm a blockchain enthusiast with a strong interest in decentralized technologies. My journey started with exploring blockchain fundamentals, and I have since dived deep into Substrate-based blockchain development, Rust, Solidity, and cloud-native applications. 
+I'm a blockchain enthusiast with a strong interest in decentralized technologies. My journey began with exploring blockchain fundamentals, and since then, I’ve delved deeply into Substrate-based blockchain development. I've been working extensively in Web3 and cloud-native applications, particularly focusing on off-chain integrations within the Polkadot ecosystem to support XODE NFT application development.
 
-Beyond blockchain, I have extensive experience as a Web Application Engineer and DevOps Team Lead. I have designed and implemented scalable and secure web applications using modern frameworks like .NET Core, Angular, and more. My expertise includes architecting microservices, optimizing CI/CD pipelines, and ensuring high availability of cloud-native applications. I am passionate about automating deployments, container orchestration, and maintaining robust DevOps workflows.
+In addition to my work in blockchain, I have a strong background as a Web Application Engineer and currently lead DevOps operations. I’ve developed scalable web applications using modern frameworks such as .NET Core, Laravel, NestJS, and FastAPI for APIs, as well as Vue, Angular, and Next.js for client-side applications. My focus includes microservices architecture, CI/CD automation, and cloud-native infrastructure. I’m particularly interested in streamlining development workflows and improving operational efficiency, managing server infrastructure primarily through Proxmox VE, rather than relying on cloud providers like AWS, GCP, or Azure.
 
 🏗️ Working on Xode-blockchain, a blockchain platform with on-chain governance for game development and business applications.
 
