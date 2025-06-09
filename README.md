@@ -36,3 +36,5 @@ In addition to my work in blockchain, I have a strong background as a Web Applic
 [LinkedIn](https://www.linkedin.com/in/arneilpaulpolican/)
 
 [Email me](mailto:policanarneilpaul@gmail.com)
+
+[Telegram](https://t.me/har_paul)
